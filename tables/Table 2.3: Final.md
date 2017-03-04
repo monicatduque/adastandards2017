@@ -1,7 +1,7 @@
 ### **Table Title**
 * Unique ID: 
 * Evidence Letter (if applicable): 
-* Table Name: Table 2.3  
+* Table Name: Table 2.3: FINAL  
 * Page: 
 * Feasible: 
 * Type: 
